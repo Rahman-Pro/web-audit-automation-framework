@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"12-Point Technical Web Quality Audit","3. On-Page Metadata Audit","Meta Title & Description Character Guidelines","1","0","0","0","0"
+"12-Point Technical Web Quality Audit","4. Content Structure & Media Audit","Heading Hierarchy & Image Alt Attributes","0","0","1","0","0"
+"12-Point Technical Web Quality Audit","2. Performance & Speed Audit","Browser Navigation Load Timing","0","0","1","0","0"
+"12-Point Technical Web Quality Audit","1. Protocol & Security Audit","HTTPS Enforcement & Security Headers","0","0","1","0","0"
+"12-Point Technical Web Quality Audit","5. Link & Navigation Integrity Audit","Broken Anchor Links & Robots.txt Accessibility","0","0","1","0","0"

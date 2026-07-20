@@ -1,0 +1,1 @@
+{'h1_count': 1, 'h1_texts': ['sleepapneabd.com'], 'has_single_h1': True}

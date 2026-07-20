@@ -1,0 +1,1 @@
+{'hsts': False, 'csp': True, 'x_frame_options': True, 'x_content_type': True}

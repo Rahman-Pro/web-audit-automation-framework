@@ -1,0 +1,1 @@
+{'total_images': 1, 'missing_alt_count': 0, 'missing_sources': []}
