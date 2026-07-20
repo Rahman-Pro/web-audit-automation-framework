@@ -1,0 +1,19 @@
+# Python compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Allure report generation outputs
+allure-results/
+allure-report/
+
+# Screenshots & Local artifacts
+screenshots/
+*.png
+*.jpg
+*.log
+
+# Environment variables
+.env
